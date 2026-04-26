@@ -1,0 +1,9 @@
+projeto_mmorpg/
+├── cliente.py          # Código final do cliente (Quadro 2 do capítulo)
+├── servidor.py         # Código do servidor (fornecido acima)
+├── data/
+│   ├── tilemap.txt     # Matriz 500x500 de texturas (formato cPickle)
+│   └── objmap.txt      # Matriz 500x500 de objetos (formato cPickle)
+└── imagens/
+    ├── tile0.png ... tile23.png   # 24 imagens de terreno (40x40 pixels)
+    └── obj0.png  ... obj23.png    # 24 imagens de objetos/personagens
